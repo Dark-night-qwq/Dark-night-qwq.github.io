@@ -2245,13 +2245,13 @@ kbd {
   left: 0;
 }
 .mode-track-moon::before {
-  content: '🌜';
+  content: 'Dark';
 }
 .mode-track-sun {
   right: 0;
 }
 .mode-track-sun::before {
-  content: '🌞';
+  content: 'Light';
 }
 .mode-thumb {
   position: absolute;
