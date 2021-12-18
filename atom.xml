@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dark&#39;s Blog</title>
+  
+  
+  <link href="https://dark-night-qwq.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://dark-night-qwq.github.io/"/>
+  <updated>2021-12-18T02:59:46.724Z</updated>
+  <id>https://dark-night-qwq.github.io/</id>
+  
+  <author>
+    <name>Dark night</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello-Hexo</title>
+    <link href="https://dark-night-qwq.github.io/2021/12/18/Hello-Hexo/"/>
+    <id>https://dark-night-qwq.github.io/2021/12/18/Hello-Hexo/</id>
+    <published>2021-12-18T02:59:46.000Z</published>
+    <updated>2021-12-18T02:59:46.724Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
