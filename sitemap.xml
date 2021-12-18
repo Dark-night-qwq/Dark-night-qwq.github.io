@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://dark-night-qwq.github.io/2021/12/16/hello-world/</loc>
-    
-    <lastmod>2021-12-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dark-night-qwq.github.io/tags/index.html</loc>
     
     <lastmod>2021-12-17</lastmod>
@@ -36,13 +27,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>https://dark-night-qwq.github.io/tags/Course/</loc>
-    <lastmod>2021-12-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 
   
