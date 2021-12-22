@@ -6,7 +6,7 @@
   <link href="https://dark-night-qwq.github.io/atom.xml" rel="self"/>
   
   <link href="https://dark-night-qwq.github.io/"/>
-  <updated>2021-12-18T02:59:46.724Z</updated>
+  <updated>2021-12-22T04:53:55.045Z</updated>
   <id>https://dark-night-qwq.github.io/</id>
   
   <author>
@@ -17,15 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello-Hexo</title>
-    <link href="https://dark-night-qwq.github.io/2021/12/18/Hello-Hexo/"/>
-    <id>https://dark-night-qwq.github.io/2021/12/18/Hello-Hexo/</id>
-    <published>2021-12-18T02:59:46.000Z</published>
-    <updated>2021-12-18T02:59:46.724Z</updated>
+    <title>关于博客</title>
+    <link href="https://dark-night-qwq.github.io/2021/12/22/Hello-hexo/"/>
+    <id>https://dark-night-qwq.github.io/2021/12/22/Hello-hexo/</id>
+    <published>2021-12-22T04:45:54.000Z</published>
+    <updated>2021-12-22T04:53:55.045Z</updated>
+    
+    <content type="html"><![CDATA[        <h1 id="关于博客">          <a href="#关于博客" class="heading-link"><i class="fas fa-link"></i></a><a class="markdownIt-Anchor" href="#关于博客"></a> 关于博客</h1>              <h2 id="关于我">          <a href="#关于我" class="heading-link"><i class="fas fa-link"></i></a><a class="markdownIt-Anchor" href="#关于我"></a> 关于我</h2>      <p>坐标 BJ ， OIER 。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">
+        &lt;h1 id=&quot;关于博客&quot;&gt;
+          &lt;a href=&quot;#关于博客&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#关于</summary>
+      
     
     
     
     
+    <category term="Blog" scheme="https://dark-night-qwq.github.io/tags/Blog/"/>
     
   </entry>
   
